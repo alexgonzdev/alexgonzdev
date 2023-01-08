@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-- 🔭 I’m currently working on a Recipe App and making public the repos of my other apps!
+- 🔭 I’m currently working on a Speedcubing Timer app and making public the repos of my other apps!
 - 🌱 I’m currently learning Unit/UITesting.
 - 👯 I’m actively looking for a full-time iOS developer job.
 - 🤔 I’m looking for help with using advanced debugging tools
