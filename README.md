@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Speedcubing Timer app and making public the repos of my other apps!
 - 🌱 I’m currently learning Combine.
-- 👯 I’m actively looking for a full-time iOS developer job.
+- 👯 I’m currently working as a Backend Developer at Abartys Health.
 - 🤔 I’m looking for help with using advanced debugging tools
 - 💬 Ask me about topics about Swift, SwiftUI, Python and HTTP requests.
 - 📫 How to reach me: Email - alexgonzdev@gmail.com | Twitter - @metrographies
